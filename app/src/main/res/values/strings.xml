@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Get sensors</string>
+    <string-array name="sensorTypes">
+        <item>Датчики окружающей среды</item>
+        <item>Датчики положения устройства</item>
+        <item>Датчики состояния человека</item>
+        <item>Другие датчики</item>
+    </string-array>
+</resources>
